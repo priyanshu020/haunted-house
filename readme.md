@@ -1,4 +1,4 @@
-# Three.js Journey
+# Haunted House
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
@@ -14,3 +14,9 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+
+## Intro
+This is simple project built using Three.js primitives as geometries. And few static textures are loaded too.
+
+## Deployment
+https://haunted-house-3js.netlify.app/
